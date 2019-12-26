@@ -12,3 +12,9 @@ Usamos quando queremos definir titulos
 ```
 <a href="https://collabcode.training">Produtos</a>
 ```
+
+# CSS 
+
+É uma linguagem de estilo, isso quer diser que ela tem as seguintes responsabilidades:
+
+- Visual

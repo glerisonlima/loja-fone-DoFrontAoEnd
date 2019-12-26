@@ -1,0 +1,26 @@
+header{
+    background-color: #e24647;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1, a {
+    color: #FFF;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Arial;
+    margin: 55.5px 64.4px;
+}
+
+nav {
+    margin-top: 56px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 21px;
+    font-family: Segoe UI;
+    margin-right: 28px;
+}
