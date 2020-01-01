@@ -15,13 +15,27 @@
 }
 
 .-frete{
+    display: inline;
     font-size: 20px;
-    margin-bottom: 25px;
+    padding-right: 80px;
+}
+
+.-vlrfrete{
+    display: inline-block;
+    margin-bottom: 28px;
+    font-size: 20px;
 }
 
 .-preco{
     font-size: 20px;
+    display: inline;
+    padding-right: 75px;    
+}
+
+.-vlrpreco{
+    display: inline-block;
     margin-bottom: 70px;
+    font-size: 20px;
 }
 
 .-description{
@@ -43,5 +57,9 @@
 
 .buttons{
     display: inline-block;
+}
+
+.valores{
+    display: block;
 }
 
