@@ -5,7 +5,7 @@
 
 .description-product > .title {
     font-size: 25px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .description-product > .item{
@@ -36,4 +36,11 @@
 .description-product .contrast{
     text-transform: uppercase;
     float: left;
+}
+
+.description-product .stars{
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
 }
