@@ -31,3 +31,13 @@
     color: inherit;
     text-decoration: inherit;
 }
+
+.button-store:hover{
+    background-color: #FFF;
+    color: #252c41;
+}
+
+.button-store.-second:hover {
+    color: #e24647;
+
+}
