@@ -30,6 +30,7 @@
     padding: 8px;
     width: 358px;
     margin-right: 65px;
+    outline: none;
 }
 
 .header-store .action {
